@@ -5,7 +5,7 @@ h3
 
 .btn-success:hover
 {
-    background-color: red;
+    background-color:black;
 }
 
 canvas 
@@ -17,6 +17,6 @@ canvas
 
 @keyframes example 
 {
-    from {box-shadow: 1px 1px 38px red;}
-    to {box-shadow: 1px 1px 38px yellow;}
+    from {box-shadow: 1px 1px 38px black;}
+    to {box-shadow: 1px 1px 38px rgba(169, 169, 169, 0.144);}
 }
